@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "ios_app",
+      "package_name": "com.dwarf.capacitorPoc",
+      "sha256_cert_fingerprints": ["43:12:D4:27:D7:C4:14..."]
+    }
+  }
+]
